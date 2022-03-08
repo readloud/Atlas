@@ -1,3 +1,0 @@
-#NOGS
--nohist -lsh /current/etc/autowearcup $GSOPTIONS
--gs /port -nohist

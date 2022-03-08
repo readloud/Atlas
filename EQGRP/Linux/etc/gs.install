@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autoinstall $GSOPTIONS -nohist
--gs /port -nohist

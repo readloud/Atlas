@@ -1,1 +1,0 @@
-stoicsurgeon_ctrl__v__1.4.17.2_x86-linux-tilttop-ns-vega.int.ru

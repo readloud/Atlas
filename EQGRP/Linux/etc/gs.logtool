@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autologtool $GSOPTIONS -nohist
-

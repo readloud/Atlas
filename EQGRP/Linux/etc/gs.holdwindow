@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autoholdwin $GSOPTIONS -nohist
--gs /port -nohist

@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autorootkit $GSOPTIONS -nohist
--gs /port -nohist

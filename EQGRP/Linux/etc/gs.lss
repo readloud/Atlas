@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autolss `echo "$GSOPTIONS" | sed -e "s,\?,___QMARK___,g" -e "s,\*,___STAR___,g"` -nohist
--gs /port -nohist

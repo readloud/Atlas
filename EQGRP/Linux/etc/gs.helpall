@@ -1,4 +1,0 @@
-#NOGS
--lsh /current/etc/autohelpall $GSOPTIONS -nohist
--gs /port -nohist
-

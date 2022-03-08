@@ -1,3 +1,0 @@
-#NOGS
--lsh -nohist /current/etc/autoswkill $GSOPTIONS
--gs /port -nohist

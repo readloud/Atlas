@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autoexercise $GSOPTIONS -nohist
--gs /port -nohist

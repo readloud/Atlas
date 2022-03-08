@@ -1,3 +1,0 @@
-#NOGS
--lsh -nohist /current/etc/autodeploy $GSOPTIONS
--gs /port -nohist

@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autosniffdetect $GSOPTIONS -nohist
--gs /port -nohist

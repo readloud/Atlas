@@ -1,2 +1,0 @@
-#NOGS
--lsh /current/etc/autorunonce -h $GSOPTIONS -nohist

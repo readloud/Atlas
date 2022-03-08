@@ -1,3 +1,0 @@
-#NOGS
--lsh -nohist /current/etc/autopanic $GSOPTIONS
--gs /port -nohist

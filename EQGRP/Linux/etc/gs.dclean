@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autodclean $GSOPTIONS -nohist
--gs /port -nohist

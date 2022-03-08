@@ -1,3 +1,0 @@
-#NOGS
--nohist -lsh /current/etc/autonopencaller $GSOPTIONS
--gs /port -nohist

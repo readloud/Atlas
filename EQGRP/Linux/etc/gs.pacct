@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autopacct $GSOPTIONS -nohist
--gs /port -nohist

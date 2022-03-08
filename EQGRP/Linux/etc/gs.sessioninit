@@ -1,3 +1,0 @@
-#NOGS
--lsh -nohist /current/etc/autosessioninit $GSOPTIONS
--gs /port -nohist

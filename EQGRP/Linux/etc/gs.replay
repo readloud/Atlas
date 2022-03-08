@@ -1,2 +1,0 @@
-#NOGS
--lsh /current/etc/autoreplay $GSOPTIONS -nohist

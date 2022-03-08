@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autohistories $GSOPTIONS -nohist
--gs /port -nohist

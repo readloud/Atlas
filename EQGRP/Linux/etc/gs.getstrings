@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autogetstrings $GSOPTIONS -nohist
--gs getstringsnext -nohist

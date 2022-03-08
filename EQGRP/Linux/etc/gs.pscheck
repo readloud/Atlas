@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autopscheck $GSOPTIONS -nohist
--gs /port -nohist

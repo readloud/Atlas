@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autogethashes $GSOPTIONS -nohist
--gs /port -nohist

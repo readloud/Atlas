@@ -1,2 +1,0 @@
-#NOGS
--lsh /current/etc/autoproblem $GSOPTIONS -nohist

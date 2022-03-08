@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autolssold "$GSOPTIONS" -nohist
--gs lssnext -nohist

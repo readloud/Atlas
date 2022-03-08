@@ -1,4 +1,0 @@
-#NOGS
--lsh /current/etc/automovemail $GSOPTIONS -nohist
--gs movemailnext -nohist
-

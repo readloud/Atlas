@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autotoast $GSOPTIONS -nohist
--gs /port -nohist

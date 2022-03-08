@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autoputfiles $GSOPTIONS -nohist
--gs /port -nohist

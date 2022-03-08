@@ -1,3 +1,0 @@
-#NOGS
--lsh /current/etc/autojlinstantgrat $GSOPTIONS -nohist 
--gs jlinstantgratnext -nohist
