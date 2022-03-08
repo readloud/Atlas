@@ -1,0 +1,26 @@
+{
+    "plugins": [
+        "anchors",
+        "todo",
+        "splitter",
+        "book-summary-scroll-position-saver",
+        "addcssjs",
+        "expandable-chapters",
+        "ace",
+        "richquotes",
+        "navigator"
+    ],
+    "pluginsConfig": {
+        "addcssjs": {
+            "js": [
+                "styles/header.js",  "styles/jquery.nicescroll.min.js"
+            ]
+        },
+        "language-picker": {
+            "grid-columns": "4"
+        }
+    },
+    "styles": {
+        "website": "styles/website.css"
+    }
+}
